@@ -1,4 +1,4 @@
-# <div align="center">Soy [&#60;Billy Andrys&#47;&#62;](https://billyandrys.click/) un enamorado de la programación, amante de JavaScript y todo los relacionado con desarrollo web.  Desarrollador Web </div>  
+# <div align="center">Soy [&#60;Billy Andrys&#47;&#62;](https://billyandrys.click/) un enamorado de la programación, amante de JavaScript y todo los relacionado con desarrollo web.</div>  
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/BillyAndrys/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/billy-andrys-67786718b/) 
